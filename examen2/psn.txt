@@ -1,0 +1,18 @@
+user1,0,active,3,1
+user2,19,inactive,0,0
+er1,Fri Mar 28 13:29:44 CST 2025,ORO,Game1,First Trophy
+jocsan,97,inactive,5,1
+csan,Fri Mar 28 13:34:42 CST 2025,PLATINO,vamos por todo,matar o morir
+,191,activo,0,0
+jocsan,207,activo,0,0
+jcarlos,229,activo,0,0
+manolo,252,inactivo,0,0
+123,276,inactivo,5,1
+3,Fri Mar 28 14:33:51 CST 2025,PLATINO,123,123
+asd,344,inactivo,0,0
+123,365,activo,0,0
+manolo,384,activo,3,1
+manolo,Fri Mar 28 14:54:10 CST 2025,ORO,caca,caac
+asd,456,activo,2,2
+asd,Fri Mar 28 14:57:22 CST 2025,BRONCE,asd,asd
+asd,Fri Mar 28 14:57:46 CST 2025,BRONCE,asd,asd
